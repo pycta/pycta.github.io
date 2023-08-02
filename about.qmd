@@ -3,7 +3,7 @@ title: "Jann Schöngart"
 about:
   id: template-area
   template: jolla
-  image: profile.png
+  image: 16456296.jpg
   links:
     - icon: github
       text: Github
