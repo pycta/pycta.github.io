@@ -1,2 +1,3 @@
-# archaeothommy.github.io
-Demonstration webpage for the DMG Data Science Short Course
+# pycta.github.io
+Demonstration webpage from the DMG Data Science Short Course ;)
+
