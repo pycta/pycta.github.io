@@ -2,10 +2,10 @@ project:
   type: website
     
 website:
-  site-url: https://archaeothommy.github.io/
-  repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
+  site-url: https://pycta.github.io/
+  repo-url: https://github.com/pycta/pycta.github.io/
   favicon: favicon.png
-  title: "Thomas Rose"
+  title: "Jann Schöngart"
   navbar:
     left:
       - text: "My research"
