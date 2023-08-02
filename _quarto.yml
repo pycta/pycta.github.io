@@ -4,7 +4,7 @@ project:
 website:
   site-url: https://pycta.github.io/
   repo-url: https://github.com/pycta/pycta.github.io/
-  favicon: favicon.png
+  favicon: favicon.ico
   title: "Jann Schöngart"
   navbar:
     left:
