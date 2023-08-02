@@ -1,8 +1,8 @@
 ---
-pagetitle: "Thomas Rose"
+pagetitle: "Jann SChöngart"
 ---
 
-# This is the Home page of your web site. 
+# Moin.
 
 Don't forget to update the YAML configuration of the webpage in the _quarto.yml and on this page! You can also try out different themes in the configuration file. The available themes are listed at <https://quarto.org/docs/output-formats/html-themes.html#overview>
 
