@@ -15,8 +15,7 @@ about:
 
 :::{#template-area}
 
-Here goes the information to be included in the template. 
-
+PhD Researcher at HZDR in Leipzig
 :::
 
 ## Legal Notice
